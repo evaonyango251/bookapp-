@@ -72,7 +72,5 @@ Book Application
 
 ## Author
 
-- Steven Victor
-   medium: medium.com/@victorsteven  
-   twitter: twitter.com/stevensunflash  
-   linkedin: linkedin.com/in/stevenchikodi
+Evance Onyango
+   
